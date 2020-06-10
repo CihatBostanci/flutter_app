@@ -1,4 +1,4 @@
-# flutterapp
+# flutter Note Taking App
 
 A new Flutter application.
 
