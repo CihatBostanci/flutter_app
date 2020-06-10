@@ -1,6 +1,6 @@
 # flutter Note Taking App
 
-A new Flutter application.
+A new Flutter Note Taking application.This project communicate with Firestore and Firebase/Auth according to their dependencies.
 
 ## Getting Started
 
